@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="hint_add_todo">Add a new task...</string>
+    <string name="button_add">Add</string>
+    <string name="empty_list_message">No tasks yet. Add one above!</string>
+</resources>
